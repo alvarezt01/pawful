@@ -44,7 +44,7 @@ class mysql_db
     
     function insert_id ()
     {
-        return $mysql_insert_id($this->mysql_link_id);
+        return $mysql_insert_id[$this->mysql_link_id];
     }
     
     function fetch_row ($query)

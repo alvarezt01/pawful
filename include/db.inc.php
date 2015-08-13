@@ -2,7 +2,7 @@
 
 define ('MYSQL_HOSTNAME', 'localhost');
 define ('MYSQL_USERNAME', 'root');
-define ('MYSQL_PASSWORD', 'Daney');
+define ('MYSQL_PASSWORD', 'Sycamore');
 define ('MYSQL_DATABASE', 'pawful');
 
 require_once('mysql_db.class.php');

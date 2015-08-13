@@ -17,7 +17,7 @@
                 $_SESSION['pure'] = $_POST['pure'];
                 $_SESSION['second'] = $_POST['second'];
                 
-                header("Location: /page_redirect.php");
+                header("Location: page_redirect.php");
                 
             }
             else {
