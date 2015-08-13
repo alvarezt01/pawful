@@ -4,7 +4,7 @@
                 
                 <div class="column7" id="header-nav">
                 
-                    <a href="url_of_website"><img src="/images/logo.png"
+                    <a href="url_of_website"><img src="images/logo.png"
                         <?php
                             if (isset($align_logo)) {
                         ?>
